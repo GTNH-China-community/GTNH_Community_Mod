@@ -1,4 +1,5 @@
 # 注册器部分 Register Part
+# ItemContainer √
 ## GT通用注册器(仿bartworks) GT Common Register (imitate Bartworks)
  - FREE ID RANGE: 12_000-28_998
  - bartimaeusnek reserved 0-10_000
@@ -8,6 +9,8 @@
  - bot reserved range 29_899-29_999
  - Tec & basdxz reserved range 30_000-31_000
  - GT Material range reserved on 31_767-32_767
+### We use 19_000 - 21_000
+### And GT machine mate use 18_000 - 20_000
 
 # 尝试创建新多方块机器：成功√
 # 深度化工扭转机-配方部分：成功√
@@ -23,12 +26,24 @@
 # Mega激光蚀刻机：PhotonController模式：光学SoC √
 # 奇迹顶点：大型电路装配线 √
 #
-# 大型搅拌机
+# 大型搅拌机 √
 # 大型压模机 √
 # 大型固化机 √
 # 大型流体提取机 √
-# 
+# 大型切割机 √
+# 大型压缩机 √
+# 大型提取机 √
+#
+# 空间缩放仪添加抽卡机模式 √
+# 重写机器类 √
+#
+#
+# 氟碳镧铈线简化 √
 # 镧系通用纳米萃取：深度化工扭转机配方 待完成
 # 镧系处理-铈部分
 # 镧系处理-通用部分-基础方式
+# 巨蒸馏
+# UU机
+# 复制机
+# 高炉
 
